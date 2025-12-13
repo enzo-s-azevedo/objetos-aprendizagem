@@ -38,7 +38,8 @@ Ao final do material, espera-se que o aluno seja capaz de:
 - Link: https://cmapscloud.ihmc.us:443/rid=21Y93P6CS-3WT0FR-CMNDCW 
 
 ## Modelo instrucional
-- Arquivo Astah do modelo instrucional: [modelo instrucional (.asta)](mi.asta)
+- Clique na imagem para acessar o arquivo do Astah (.asta):
+[![Modelo Instrucional](mi.jpg)](mi.asta)
 
 ## Licença
 Licenciado sob CC BY-NC 4.0  
