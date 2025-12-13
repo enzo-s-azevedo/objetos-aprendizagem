@@ -29,6 +29,9 @@ Ao final do material, espera-se que o aluno seja capaz de:
    - **Shift + Enter**, ou  
    - menu **Executar tudo**
 
+### Alternativa: Acesse o Endereço público do notebook
+1. Acesse ➜ [https://colab.google.com](https://colab.research.google.com/github/learningspace-utfpr-cm/oa-operacoes-aritmeticas-python/blob/main/Opera%C3%A7%C3%B5es_Aritm%C3%A9ticas.ipynb)
+   
 ### Execução local (opcional)
 1. Instale Jupyter Notebook:
    ```bash
